@@ -1,1 +1,1 @@
-# beautiful-landing-page
+# Beautiful Landing Page created by Vlad Perepechkin (Xtrphy)
